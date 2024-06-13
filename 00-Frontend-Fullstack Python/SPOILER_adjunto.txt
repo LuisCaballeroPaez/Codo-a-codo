@@ -1,0 +1,66 @@
+**¿Sabías que GitHub tiene 420 millones de repositorios?**
+
+Te dejo 25 repositorios que no te puedes perder como ingeniero de software:
+
+**Diseño del sistema:**
+
+0. Casos prácticos y fundamentos del diseño de sistemas: https://lnkd.in/dbfAK_6A  (por Neo K. )
+
+1. Impresionantes recursos de diseño de sistemas: https://lnkd.in/dU6wFXkn  (por Ashish Pratap Singh )
+
+2. Cartilla de diseño del sistema: https://lnkd.in/dkPScaCW
+
+3. Diseño del sistema 101: https://lnkd.in/d5itZHgQ
+
+4. Patrones de diseño esenciales de JS: https://lnkd.in/dWmBwK-i
+
+5. Soluciones a los desafíos de codificación: https://lnkd.in/dJV_8pgH (por John Crickett )
+
+6. Impresionante diseño de sistemas para sistemas distribuidos: https://lnkd.in/dxUB8Jey
+
+7. Blogs de tecnología de ingeniería de grandes tecnologías: https://lnkd.in/dJaGjeES
+
+**Hojas de ruta completas:**
+
+8. La hoja de ruta integral de DevOps: https://lnkd.in/ddE5DkDJ  (por Dr Milan Milanović )
+
+9. Manual del Camino al Ingeniero Senior: https://lnkd.in/dC3dQvy6  por Jordan Cutler )
+
+10. 100+ Recursos para Convertirse en un Gran Líder de Ingeniería: https://lnkd.in/dFwV2GMv  (por Gregor Ojstersek )
+
+11. Libros de programación gratuitos: https://lnkd.in/d5JCRakw
+
+12. El Libro del Conocimiento Secreto: https://lnkd.in/d69jrK4T
+
+13. La hoja de ruta definitiva para desarrolladores: https://lnkd.in/dsCJgDnS (por Kamran Ahmed )
+
+**IA/ML:**
+
+14. Curso LLM 101: https://lnkd.in/dVKwvVUR (por Maxime Labonne )
+
+15. Manos a la obra LLM: https://lnkd.in/dww8GPdt (por Paul Iusztin )
+
+16. Papel ML de la semana: https://lnkd.in/d66HxP52
+
+17. Notas sobre IA para ingenieros de software: https://lnkd.in/dANSnC4f
+
+18. Papeles que amamos: https://lnkd.in/dkjsCq8z
+
+**Interfaz:**
+
+19. CSS para JS Notas de desarrollo: https://lnkd.in/dCNavrNv  (por Tiger Abrodi )
+
+20. Preguntas sobre Javascript: https://lnkd.in/dt_96xJZ
+
+21. Taller de patrones avanzados mecanografiados: https://lnkd.in/deTBDhCb
+
+**Preparación de la entrevista:**
+
+22. Manual de entrevistas técnicas: https://lnkd.in/d2F5z4Af (por Yangshun Tay )
+
+23. Guía para entrevistas de ingeniería de software: https://lnkd.in/dm2MbsgD
+
+24. Entrevista de codificación Universidad: https://lnkd.in/dH9NSDNX
+
+**BONUS**: Comparto inmersiones profundas y repos con 10,001+ ingenieros de forma gratuita:
+ https://hungryminds.dev
